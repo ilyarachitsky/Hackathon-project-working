@@ -8,7 +8,7 @@ export default function Mapping() {
   const [activeCenter, setActiveCenter] = React.useState(null);
 
   return (
-    <Map center={[38.722252, -9.139337]} zoom={12}>
+    <Map center={[46.68, 23.03]} zoom={4}>
       <Search
         position="topleft"
         inputPlaceholder="Search..."
