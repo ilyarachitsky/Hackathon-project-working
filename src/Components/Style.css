@@ -1,9 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik&display=swap');
+
 body{
     font-family:sans-serif;
     background-color: #fafafa;
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: 'Rubik', sans-serif;
 }
 
 h1{
@@ -99,16 +102,8 @@ hr{
   
   /* Contact form*/
 
-@import url('https://fonts.googleapis.com/css2?family=Redressed&display=swap');
-form,
-input,
-textarea,
-button {
-    font-family: 'Redressed', cursive;
-    font-size: large;
-}
-
 .form {
+    margin: 0 0 5% 0;
     width: 200vh;
     height: 100vh;
     display: flex;
@@ -127,11 +122,11 @@ button {
 }
 .form > input:focus,
 textarea:focus {
-  border: 2px solid rgb(250, 20, 20);
+  border: 2px solid #007eb4;
 }
 .form > input:hover,
 textarea:hover{
-    box-shadow: 0 0 25px rgba(255, 12, 12, 0.8);
+    box-shadow: 0 0 25px #007eb4;
 }
 .form > button:hover{
     box-shadow: 0 0 25px rgba(97, 92, 92, 0.8)
@@ -141,7 +136,7 @@ textarea:hover{
     width: 300px;
     border-radius: 12px;
     outline: none;
-    background-color:rgb(250, 20, 20);
+    background-color:#007eb4;
     color: rgb(255, 255, 255);
     font-size: 23px;
     margin-top: 10px;

@@ -48,7 +48,7 @@ export default function Footer() {
         </Link>
       </div>
       <div className='credits'>
-        <p>&copy; 2021 all rigths reserved</p>
+        <p>&copy; 2021 all rights reserved</p>
       </div>
     </div>
   );
