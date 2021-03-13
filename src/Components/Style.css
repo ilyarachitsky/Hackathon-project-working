@@ -10,7 +10,7 @@
         flex-direction: column;
     }
 }
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 376px) {
     .footer{
         flex-wrap: wrap;
         flex-direction: column;
@@ -153,4 +153,41 @@ textarea:hover{
     margin-top: 10px;
 }
 
+/*About*/
 
+hr{
+    margin: 0 20% 0 20%;
+}
+.bout{
+    margin: 0 10% 0 10%;
+    padding: 30px 0 30px 0;
+    text-align: center;
+}
+.picgino{
+    width: 150px;
+}
+.gino, .hugo, .anna, .ilya, .kastus {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.team{
+    display: flex;
+    justify-content: space-around;
+}
+@media screen and (max-width: 376px){
+    .picgino{
+        width: 75px;
+    }
+    .bout{
+        text-align: center;
+        padding: 10px 0 10px 0;
+        margin: 25px 25px 25px 25px;
+    }
+    .team{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        flex-wrap: wrap;
+    }
+}
