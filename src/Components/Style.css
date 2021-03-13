@@ -1,6 +1,6 @@
 body{
     font-family:sans-serif;
-    background-color: #f9f7f7;
+    background-color: #fafafa;
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -25,10 +25,14 @@ hr{
     margin-right: 50px;
 } */
 
-/* .NavBar img{
+ /*.NavBar img{
     width: 50px;
 } */
 
+.navbar{
+    color:rgb(77, 107, 206);
+    background-color: rgb(134, 155, 224);
+}
 .link-text{
     color: black;
     margin-right: 10px;
@@ -45,6 +49,7 @@ hr{
     display: flex;
     justify-content: space-around;
     align-items: center;
+    background-color: rgb(134, 155, 224);
 }
 .social-icons{
     padding: 10px;
