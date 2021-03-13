@@ -60,9 +60,19 @@ h1{
     align-items: center;
     background-color: #007eb4;
 }
+
 .social-icons{
+    display: inline-block;
     padding: 10px;
+    transform: scale(0.8);
+    transition: 0.5s;
 }
+
+.social-icons:hover {
+    transform: scale(1) translateY(-10px);
+   
+}
+
 
 .websites img{
     width:80px;
@@ -71,7 +81,16 @@ h1{
     margin-bottom: 20px;
     text-align: center;
     text-decoration: none;
+    display: inline-block;
+    transform: scale(0.8);
+    transition: 0.5s;
 }
+
+.websites img:hover {
+    transform: scale(1) translateY(-8px);
+}
+
+
 .sponsers{
     color: white;
     text-align: center;
