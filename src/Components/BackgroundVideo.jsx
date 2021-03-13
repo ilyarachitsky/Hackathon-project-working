@@ -4,7 +4,7 @@ import classes from "./BackgroundVideo.module.css";
 
 const BackgroundVideo = () => {
   const videoSource =
-    "https://res.cloudinary.com/dppglrm2s/video/upload/v1615584886/hackathonvideo_ipt8r4.mp4";
+    "https://res.cloudinary.com/dppglrm2s/video/upload/v1615625043/hackvideofinal_r8ti7n.mp4";
   return (
     <div className={classes.Container}>
       <video autoPlay="autoplay" loop="loop" muted className={classes.Video}>
