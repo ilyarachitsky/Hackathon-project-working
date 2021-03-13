@@ -65,7 +65,7 @@
   border: #F1F1F1 1px solid;
 }
 
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 376px) {
   .SubContent h1{
     font-size: 2rem;
     margin-top: -400px;
@@ -75,5 +75,10 @@
   }
   .SubContent p{
     display: none;
+  }
+}
+@media screen and (min-width: 2000px) {
+  .Video {
+    width: 100%; 
   }
 }

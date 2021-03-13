@@ -22,6 +22,7 @@ export default function About() {
           <h4>Frontend Developer</h4>
           <img
             className="picgino"
+            alt = "Gino"
             src="https://res.cloudinary.com/nooskii/image/upload/v1615643804/hackathon/circle-cropped_1_xzjqpn.png"
           />
         </div>
@@ -31,6 +32,7 @@ export default function About() {
           <h4>Frontend Developer</h4>
           <img
             className="picgino"
+            alt = "Hugo"
             src="https://res.cloudinary.com/nooskii/image/upload/v1615644534/hackathon/circle-cropped_jen9yu.png"
           />
         </div>
@@ -40,6 +42,7 @@ export default function About() {
           <h4>Frontend Developer</h4>
           <img
             className="picgino"
+            alt = "Ilya"
             src="https://res.cloudinary.com/nooskii/image/upload/v1615644534/hackathon/circle-cropped_2_hf7bds.png"
           />
         </div>
@@ -49,6 +52,7 @@ export default function About() {
           <h4>Frontend Developer</h4>
           <img
             className="picgino"
+            alt = "Anna"
             src="https://res.cloudinary.com/nooskii/image/upload/v1615644534/hackathon/circle-cropped_4_vw258e.png"
           />
         </div>
@@ -58,6 +62,7 @@ export default function About() {
           <h4>Frontend Developer</h4>
           <img
             className="picgino"
+            alt = "Kastus"
             src="https://res.cloudinary.com/nooskii/image/upload/v1615644534/hackathon/circle-cropped_3_toduvz.png"
           />
         </div>
