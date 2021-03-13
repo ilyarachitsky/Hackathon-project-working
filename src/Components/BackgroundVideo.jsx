@@ -1,5 +1,5 @@
 import React from "react";
-
+import { Link } from "react-router-dom";
 import classes from "./BackgroundVideo.module.css";
 
 const BackgroundVideo = () => {
@@ -30,9 +30,11 @@ const BackgroundVideo = () => {
             harum debitis assumenda asperiores incidunt. Corporis ut nam
             eligendi, dolore repudiandae sunt quam magnam rerum! Dignissimos.
           </p>
-          <button type="button" className="btn btn-outline-dark">
+          <Link to="/map">
+            <button type="button" className="btn btn-outline-dark">
             EXPLORE THE MAP
-          </button>
+     </button>
+          </Link>
         </div>
       </div>
     </div>
