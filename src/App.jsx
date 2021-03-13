@@ -5,7 +5,7 @@ import About from "./Components/About";
 import Footer from "./Components/Footer";
 import Mapping from "./Components/Mapping";
 import Contact from "./Components/Contact";
-import Home from "./Components/Home";
+import BackgroundVideo from "./Components/BackgroundVideo";
 
 function App() {
   return (
@@ -13,7 +13,7 @@ function App() {
       <Router>
         <NavBar />
         <Switch>
-          <Route exact path='/' component={Home} />
+          <Route exact path='/' component={BackgroundVideo} />
           <Route path='/map' component={Mapping} />
           <Route path='/contact' component={Contact} />
           <Route path='/about' component={About} />
