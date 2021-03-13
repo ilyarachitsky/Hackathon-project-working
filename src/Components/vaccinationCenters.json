@@ -282,7 +282,7 @@
       "id": 26,
       "center": "Kyiv City Clinical Hospital №4",
       "address": "Solomianska Street, 17, Kyiv",
-      "img": "https://images.unian.net/pb/009/thumb_files/h_500/966992.JPG",
+      "img": "https://res.cloudinary.com/dppglrm2s/image/upload/v1615655147/561874_550128781713116_1163539904_n_igmo2w.png",
       "latitude": 50.42428517657655,
       "longitude": 30.48209423677673,
       "phone": "+380442497856"
@@ -293,7 +293,7 @@
       "id": 27,
       "center": "Kyiv City Clinical Hospital №1",
       "address": "Kharkivs’ke Highway, 121, Kyiv",
-      "img": "https://images.unian.net/pb/007/thumb_files/h_500/789126.jpg",
+      "img": "https://res.cloudinary.com/dppglrm2s/image/upload/v1615655147/Golovna_td7xmh.jpg",
       "latitude": 50.41397956286164,
       "longitude": 30.66586962611437,
       "phone": "+380445646534"
