@@ -1,6 +1,9 @@
 body{
     font-family:sans-serif;
     background-color: #f9f7f7;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
 
 h1{
@@ -14,17 +17,17 @@ hr{
     margin-top: 20px;
 }
 
-.NavBar{
+/* .NavBar{
     display: flex;
     justify-content: space-between;
     align-items: center;
     margin-left: 50px;
     margin-right: 50px;
-}
+} */
 
-.NavBar img{
+/* .NavBar img{
     width: 50px;
-}
+} */
 
 .link-text{
     color: black;
@@ -91,7 +94,7 @@ hr{
   
   /* Contact form*/
 
-  @import url('https://fonts.googleapis.com/css2?family=Redressed&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Redressed&display=swap');
 form,
 input,
 textarea,
