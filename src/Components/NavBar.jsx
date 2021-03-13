@@ -16,10 +16,12 @@ function Navbar() {
     <>
       <IconContext.Provider value={{ color: "rgb(240, 221, 221)" }}>
         <div className='navbar'>
-          <div className='logo'>
-            <img src={logo} alt='logo' />
-            <h1 className='logo'>accinator</h1>
-          </div>
+          <Link to='/' className='logo-link'>
+            <div className='logo'>
+              <img src={logo} alt='logo' />
+              <h1 className='logo'>accinator</h1>
+            </div>
+          </Link>
 
           <Link to='#' className='menu-bars'>
             <FaIcons.FaBars onClick={showSidebar} />
