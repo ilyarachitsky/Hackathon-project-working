@@ -14,7 +14,7 @@ export default function Footer() {
   return (
     <div className='footer'>
       <div className='social-media'>
-        <IconContext.Provider value={{ size: "1.5rem", color: "black" }}>
+        <IconContext.Provider value={{ size: "1.5rem", color: "white" }}>
           <Link to='#' className='social-icons'>
             <FaInstagram />
           </Link>
@@ -49,7 +49,6 @@ export default function Footer() {
       </div>
       <div className='credits'>
         <p>&copy; 2021 all rigths reserved</p>
-        <p>Logo credit to: mavadee @flaticon</p>
       </div>
     </div>
   );
