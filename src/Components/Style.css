@@ -34,6 +34,9 @@
         flex-wrap: wrap;
         flex-direction: column;
     }
+    .form h2{
+        margin-top: -200px;
+        }
 }
 
 body{
@@ -97,8 +100,8 @@ h1{
   /* Contact form*/
 
 .form {
-    margin: 0 0 0 0;
-    width: 200vh;
+    margin: 0;
+    /* width: 200vh; */
     height: 100vh;
     display: flex;
     flex-direction: column;
@@ -109,6 +112,7 @@ h1{
     background-size: 100%;
     /*https://vectr.com/tmp/bZHzfTSC3/c3WzLiZR4l.svg?width=1600&height=896&select=c3WzLiZR4lpage0*/
 }
+
 .form > input, textarea{
     width: 250px;
     height: 10px;
