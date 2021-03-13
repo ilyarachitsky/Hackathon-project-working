@@ -3,8 +3,8 @@ import React from "react";
 const Contact = () => {
   return (
     <form className='form'>
-      <h1>Contact us</h1>
-
+      <h2>Contact us</h2>
+    
       <label>Name</label>
       <input placeholder='Name' />
 
