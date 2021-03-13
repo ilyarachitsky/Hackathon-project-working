@@ -39,7 +39,7 @@ export default function Mapping() {
           onClose={() => {
             setActiveCenter(null);
           }}>
-          <div>
+          <div className='popup-card'>
             <h2 className='card-text'>{activeCenter.center}</h2>
             <p className='card-text'>
               <strong>Address:</strong> {activeCenter.address}

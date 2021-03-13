@@ -102,6 +102,12 @@ h1{
   .card-text{
       text-align: center;
   }
+
+
+  .leaflet-popup-content-wrapper{
+      z-index: 100;
+      overflow: hidden;
+  }
   
   /* Contact form*/
 
