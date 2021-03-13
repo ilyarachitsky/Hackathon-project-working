@@ -9,7 +9,7 @@
       "img": "https://www.centrosdesaude.pt/wp-content/uploads/2017/11/Sete-Rios.jpg",
       "latitude": 38.739767437995255,
       "longitude": -9.168464371586904,
-      "phone": 351217211800
+      "phone": "+351217211800"
     },
     {
       "country": "Portugal",
@@ -20,7 +20,7 @@
       "img": "https://www.centrosdesaude.pt/wp-content/uploads/2017/11/Sao-Mamede-Santa-Isabel.jpg",
       "latitude": 38.7178479237832,
       "longitude": -9.152000793759314,
-      "phone": 351213947310
+      "phone": "+351213947310"
     },
     {
       "country": "Portugal",
@@ -31,7 +31,7 @@
       "img": "https://www.centrosdesaude.pt/wp-content/uploads/2017/11/Lumiar.jpg",
       "latitude": 38.772270855361,
       "longitude": -9.161110702426129,
-      "phone": 351217527110
+      "phone": "+351217527110"
     },
     {
       "country": "Portugal",
@@ -42,7 +42,7 @@
       "img": "https://www.arslvt.min-saude.pt/thumbs/uploads/writer_file/image/7521/M_nicas_2_1_690_400.JPG",
       "latitude": 38.71522832036849,
       "longitude": -9.130471858251557,
-      "phone": 351218806000
+      "phone": "+351218806000"
     },
     {
       "country": "Portugal",
@@ -53,7 +53,7 @@
       "img": "https://www.centrosdesaude.pt/wp-content/uploads/2017/11/Benfica.jpg",
       "latitude": 38.75067186407143,
       "longitude": -9.19431806009733,
-      "phone": 351217125194
+      "phone": "+351217125194"
     },
     {
       "country": "Portugal",
@@ -64,7 +64,7 @@
       "img": "https://www.centrosdesaude.pt/wp-content/uploads/2017/11/Lapa.jpg",
       "latitude": 38.711875357659345,
       "longitude": -9.161902200581153,
-      "phone": 351213931250
+      "phone": "+351213931250"
     },
     {
       "country": "Portugal",
@@ -75,7 +75,7 @@
       "img": "https://www.centrosdesaude.pt/wp-content/uploads/2017/11/Penha-de-Franca.jpg",
       "latitude": 38.72427471484632,
       "longitude": -9.134574844757106,
-      "phone": 351218164100
+      "phone": "+351218164100"
     },
     {
       "country": "Portugal",
@@ -86,7 +86,7 @@
       "img": "https://www.centrosdesaude.pt/wp-content/uploads/2017/11/Alameda.jpg",
       "latitude": 38.73685984381174,
       "longitude": -9.130928064357505,
-      "phone": 351218105000
+      "phone": "+351218105000"
     },
     {
       "country": "Portugal",
@@ -97,7 +97,7 @@
       "img": "https://www.centrosdesaude.pt/wp-content/uploads/2017/11/Ajuda.jpg",
       "latitude": 38.705769230395404,
       "longitude": -9.19444349447088,
-      "phone": 351213600260
+      "phone": "+351213600260"
     },
     {
       "country": "Portugal",
@@ -108,227 +108,7 @@
       "img": "https://www.centrosdesaude.pt/wp-content/uploads/2017/11/Alcantra.jpg",
       "latitude": 38.706168917181515,
       "longitude": -9.185125229416608,
-      "phone": 351213630130
-    },
-    {
-      "country": "France",
-      "city": "Paris",
-      "id": 41,
-      "center": "Medical Center Europe",
-      "address": "44-46 Rue d'Amsterdam, 75009 Paris",
-      "img": "https://res.cloudinary.com/dppglrm2s/image/upload/v1615309931/41_p88y3k.jpg",
-      "latitude": 48.87840416403721,
-      "longitude": 2.327581131836391,
-      "phone": 33142819333
-    },
-    {
-      "country": "France",
-      "city": "Paris",
-      "id": 42,
-      "center": "Medical Center Cosem Saint-Lazare",
-      "address": "13 Rue de la Pépinière, 75008 Paris",
-      "img": "https://res.cloudinary.com/dppglrm2s/image/upload/v1615309931/42_rep8cd.jpg",
-      "latitude": 48.87499343639248,
-      "longitude": 2.322794573960568,
-      "phone": 33158229000
-    },
-    {
-      "country": "France",
-      "city": "Paris",
-      "id": 43,
-      "center": "American Hospital of Paris",
-      "address": "63 Boulevard Victor Hugo, 92200 Neuilly-sur-Seine",
-      "img": "https://res.cloudinary.com/dppglrm2s/image/upload/v1615309932/43_xyikni.jpg",
-      "latitude": 48.89263303869075,
-      "longitude": 2.2726236292771156,
-      "phone": 33146412525
-    },
-    {
-      "country": "France",
-      "city": "Paris",
-      "id": 44,
-      "center": "Hôpital Saint-Louis",
-      "address": "1 Avenue Claude Vellefaux, 75010 Paris",
-      "img": "https://res.cloudinary.com/dppglrm2s/image/upload/v1615309931/44_q8bigd.jpg",
-      "latitude": 48.87360311960176,
-      "longitude": 2.369889276044022,
-      "phone": 33142494949
-    },
-    {
-      "country": "France",
-      "city": "Paris",
-      "id": 45,
-      "center": "Hôpital Lariboisière",
-      "address": "2 Rue Ambroise Paré, 75010 Paris",
-      "img": "https://res.cloudinary.com/dppglrm2s/image/upload/v1615309932/45_lhyhhg.jpg",
-      "latitude": 48.88320029609331,
-      "longitude": 2.3533687008631947,
-      "phone": 33149956565
-    },
-    {
-      "country": "France",
-      "city": "Paris",
-      "id": 46,
-      "center": "Hôpital Européen Georges-Pompidou",
-      "address": "20 Rue Leblanc, 75015 Paris",
-      "img": "https://res.cloudinary.com/dppglrm2s/image/upload/v1615309931/46_m7pmpv.jpg",
-      "latitude": 48.83849193313452,
-      "longitude": 2.27305149452642,
-      "phone": 33156092000
-    },
-    {
-      "country": "France",
-      "city": "Paris",
-      "id": 47,
-      "center": "Hôpital Cochin",
-      "address": "27 Rue du Faubourg Saint-Jacques, 75014 Paris",
-      "img": "https://res.cloudinary.com/dppglrm2s/image/upload/v1615309932/47_psq651.jpg",
-      "latitude": 48.8370512428814,
-      "longitude": 2.340276641467016,
-      "phone": 33158414141
-    },
-    {
-      "country": "France",
-      "city": "Paris",
-      "id": 48,
-      "center": "Hôpital Tenon",
-      "address": "4 Rue de la Chine, 75020 Paris",
-      "img": "https://res.cloudinary.com/dppglrm2s/image/upload/v1615309932/48_r8vhge.jpg",
-      "latitude": 48.866220398632215,
-      "longitude": 2.401960928242455,
-      "phone": 33156017000
-    },
-    {
-      "country": "France",
-      "city": "Paris",
-      "id": 49,
-      "center": "Hôpital Rothschild",
-      "address": "5 Rue Santerre, 75012 Paris",
-      "img": "https://res.cloudinary.com/dppglrm2s/image/upload/v1615310396/49_klmexh.jpg",
-      "latitude": 48.84315050885898,
-      "longitude": 2.39842822168438,
-      "phone": 33140193000
-    },
-    {
-      "country": "France",
-      "city": "Paris",
-      "id": 50,
-      "center": "Hôpital Fernand Widal",
-      "address": "200 Rue du Faubourg Saint-Denis, 75010 Paris",
-      "img": "https://res.cloudinary.com/dppglrm2s/image/upload/v1615309932/49_idmo0s.jpg",
-      "latitude": 48.88173108248309,
-      "longitude": 2.358484065296031,
-      "phone": 33140054545
-    },
-    {
-      "country": "Germany",
-      "city": "Berlin",
-      "id": 31,
-      "center": "Martin Luther Hospital",
-      "address": "Caspar-Theyß-Straße 27-31, 14193 Berlin, Germany",
-      "img": "https://res.cloudinary.com/dppglrm2s/image/upload/v1615544417/31_xa8vsn.jpg",
-      "latitude": 52.49470330132854,
-      "longitude": 13.29102686158641,
-      "phone": 493089550
-    },
-    {
-      "country": "Germany",
-      "city": "Berlin",
-      "id": 32,
-      "center": "Franziskus-Krankenhaus",
-      "address": "Budapester Str. 15-19, 10787 Berlin, Germany",
-      "img": "https://res.cloudinary.com/dppglrm2s/image/upload/v1615544417/32_pldrrl.jpg",
-      "latitude": 52.51014929265509,
-      "longitude": 13.34498628033378,
-      "phone": 493026380
-    },
-    {
-      "country": "Germany",
-      "city": "Berlin",
-      "id": 33,
-      "center": "Vivantes Hospital Am Urban",
-      "address": "Dieffenbachstraße 1, 10967 Berlin, Germany",
-      "img": "https://res.cloudinary.com/dppglrm2s/image/upload/v1615544417/33_aiq0do.jpg",
-      "latitude": 52.498023757242144,
-      "longitude": 13.410520927912009,
-      "phone": 4930130210
-    },
-    {
-      "country": "Germany",
-      "city": "Berlin",
-      "id": 34,
-      "center": "DRK Kliniken Berlin",
-      "address": "Spandauer Damm 130, 14050 Berlin, Germany",
-      "img": "https://res.cloudinary.com/dppglrm2s/image/upload/v1615544417/34_h29elx.jpg",
-      "latitude": 52.52385239211206,
-      "longitude": 13.278585536331123,
-      "phone": 493030354000
-    },
-    {
-      "country": "Germany",
-      "city": "Berlin",
-      "id": 35,
-      "center": "Malteser-Krankenhaus Berlin-Charlottenburg",
-      "address": "Pillkaller Allee 1, 14055 Berlin, Germany",
-      "img": "https://res.cloudinary.com/dppglrm2s/image/upload/v1615544417/35_m0jlty.jpg",
-      "latitude": 52.51155493533742,
-      "longitude": 13.250293047342767,
-      "phone": 4930300010
-    },
-    {
-      "country": "Germany",
-      "city": "Berlin",
-      "id": 36,
-      "center": "Bundeswehrkrankenhaus Berlin",
-      "address": "Scharnhorststraße 13, 10115 Berlin, Germany",
-      "img": "https://res.cloudinary.com/dppglrm2s/image/upload/v1615544417/36_kp7xd3.jpg",
-      "latitude": 52.53878039144292,
-      "longitude": 13.369525684691487,
-      "phone": 493028412289
-    },
-    {
-      "country": "Germany",
-      "city": "Berlin",
-      "id": 37,
-      "center": "DRK Kliniken Berlin | Mitte",
-      "address": "Drontheimer Str. 39 – 40, 13359 Berlin, Germany",
-      "img": "https://res.cloudinary.com/dppglrm2s/image/upload/v1615544417/37_ulmmiv.jpg",
-      "latitude": 52.56107512448801,
-      "longitude": 13.377609253316162,
-      "phone": 493030356000
-    },
-    {
-      "country": "Germany",
-      "city": "Berlin",
-      "id": 38,
-      "center": "Caritas-Klinik Maria Heimsuchung Berlin-Pankow",
-      "address": "Breite Str. 46/47, 13187 Berlin, Germany",
-      "img": "https://res.cloudinary.com/dppglrm2s/image/upload/v1615544417/38_onbpuf.jpg",
-      "latitude": 52.57511323714605,
-      "longitude": 13.413985311543172,
-      "phone": 4930475170
-    },
-    {
-      "country": "Germany",
-      "city": "Berlin",
-      "id": 39,
-      "center": "Park-Klinik Weißensee",
-      "address": "Schönstraße 80, 13086 Berlin, Germany",
-      "img": "https://res.cloudinary.com/dppglrm2s/image/upload/v1615544417/39_apsofr.jpg",
-      "latitude": 52.558617993167495,
-      "longitude": 13.45122746796166,
-      "phone": 493096280
-    },
-    {
-      "country": "Germany",
-      "city": "Berlin",
-      "id": 40,
-      "center": "Sana Kliniken Berlin-Brandenburg",
-      "address": "Fanningerstraße 32, 10365 Berlin, Germany",
-      "img": "https://res.cloudinary.com/dppglrm2s/image/upload/v1615544417/40_qoofkf.jpg",
-      "latitude": 52.517177057004545,
-      "longitude": 13.495687094633643,
-      "phone": 493055183510
+      "phone": "+351213630130"
     },
     {
       "country": "Belarus",
@@ -339,7 +119,7 @@
       "img": "https://res.cloudinary.com/dppglrm2s/image/upload/v1615543978/11_rgsnro.jpg",
       "latitude": 53.951515,
       "longitude": 27.60198,
-      "phone": 375445997237
+      "phone": "+375445997237"
     },
     {
       "country": "Belarus",
@@ -350,7 +130,7 @@
       "img": "https://res.cloudinary.com/dppglrm2s/image/upload/v1615543978/12_kye1aa.jpg",
       "latitude": 53.88465387321257,
       "longitude": 27.68034604220919,
-      "phone": 375172589770
+      "phone": "+375172589770"
     },
     {
       "country": "Belarus",
@@ -361,7 +141,7 @@
       "img": "https://res.cloudinary.com/dppglrm2s/image/upload/v1615543978/13_fnn71e.jpg",
       "latitude": 53.89440215023758,
       "longitude": 27.513929473004417,
-      "phone": 375172861856
+      "phone": "+375172861856"
     },
     {
       "country": "Belarus",
@@ -372,7 +152,7 @@
       "img": "https://res.cloudinary.com/dppglrm2s/image/upload/v1615543978/14_hbboli.jpg",
       "latitude": 53.93456243587342,
       "longitude": 27.635966569198814,
-      "phone": 375172856581
+      "phone": "+375172856581"
     },
     {
       "country": "Belarus",
@@ -383,7 +163,7 @@
       "img": "https://res.cloudinary.com/dppglrm2s/image/upload/v1615543978/15_ry4die.jpg",
       "latitude": 53.93963281149143,
       "longitude": 27.68916586919896,
-      "phone": 375173952865
+      "phone": "+375173952865"
     },
     {
       "country": "Belarus",
@@ -394,7 +174,7 @@
       "img": "https://res.cloudinary.com/dppglrm2s/image/upload/v1615543978/16_zct3vx.jpg",
       "latitude": 53.95087916382273,
       "longitude": 27.677459628717912,
-      "phone": 375172704411
+      "phone": "+375172704411"
     },
     {
       "country": "Belarus",
@@ -405,7 +185,7 @@
       "img": "https://res.cloudinary.com/dppglrm2s/image/upload/v1615543978/17_yibyur.jpg",
       "latitude": 53.878957680195974,
       "longitude": 27.544433388216838,
-      "phone": 375172700577
+      "phone": "+375172700577"
     },
     {
       "country": "Belarus",
@@ -416,7 +196,7 @@
       "img": "https://res.cloudinary.com/dppglrm2s/image/upload/v1615543978/18_lkerzh.jpg",
       "latitude": 53.89126311866921,
       "longitude": 27.431184462412126,
-      "phone": 375173690698
+      "phone": "+375173690698"
     },
     {
       "country": "Belarus",
@@ -427,7 +207,7 @@
       "img": "https://res.cloudinary.com/dppglrm2s/image/upload/v1615543978/19_e0vgmp.jpg",
       "latitude": 53.93227314190272,
       "longitude": 27.440361126869462,
-      "phone": 375173591615
+      "phone": "+375173591615"
     },
     {
       "country": "Belarus",
@@ -438,8 +218,9 @@
       "img": "https://res.cloudinary.com/dppglrm2s/image/upload/v1615543978/20_pzp7t3.jpg",
       "latitude": 53.88348433074933,
       "longitude": 27.608312106854406,
-      "phone": 375172723220
+      "phone": "+375172723220"
     },
+    
     {
       "country": "Ukraine",
       "city": "Kyiv",
@@ -449,7 +230,7 @@
       "img": "https://www.kyivpost.com/wp-content/uploads/2012/11/22/p17ckstdraej98v0n8o153912df4/original.jpg",
       "latitude": 50.4608576696378,
       "longitude": 30.479761829521042,
-      "phone": 380674804525
+      "phone": "+380674804525"
     },
     {
       "country": "Ukraine",
@@ -460,7 +241,7 @@
       "img": "https://gvult.com/wp-content/uploads/posts/2015-04/poliklinika-hels-end-heppi-healthy-and-happy_logo.jpg",
       "latitude": 50.435866953382494,
       "longitude": 30.512036383787052,
-      "phone": 380445010203
+      "phone": "+380445010203"
     },
     {
       "country": "Ukraine",
@@ -471,7 +252,7 @@
       "img": "https://arrhythmia.center/wp-content/uploads/2017/10/Universum-Clinic-Universum-Klinik-2.jpg",
       "latitude": 50.45512267409863,
       "longitude": 30.50070357799465,
-      "phone": 380445995405
+      "phone": "+380445995405"
     },
     {
       "country": "Ukraine",
@@ -482,7 +263,7 @@
       "img": "https://investinkyiv.gov.ua/uploads/photos/oberig-4ae5deb189.jpg",
       "latitude": 50.45769333348123,
       "longitude": 30.459889283788208,
-      "phone": 380444836917
+      "phone": "+380444836917"
     },
     {
       "country": "Ukraine",
@@ -493,7 +274,7 @@
       "img": "https://f.guide.kyivcity.gov.ua/location/9976/Zmtee.jpg",
       "latitude": 50.44443531016934,
       "longitude": 30.50997415398474,
-      "phone": 380442354056
+      "phone": "+380442354056"
     },
     {
       "country": "Ukraine",
@@ -504,7 +285,7 @@
       "img": "https://images.unian.net/pb/009/thumb_files/h_500/966992.JPG",
       "latitude": 50.42428517657655,
       "longitude": 30.48209423677673,
-      "phone": 380442497856
+      "phone": "+380442497856"
     },
     {
       "country": "Ukraine",
@@ -515,7 +296,7 @@
       "img": "https://images.unian.net/pb/007/thumb_files/h_500/789126.jpg",
       "latitude": 50.41397956286164,
       "longitude": 30.66586962611437,
-      "phone": 380445646534
+      "phone": "+380445646534"
     },
     {
       "country": "Ukraine",
@@ -526,7 +307,7 @@
       "img": "http://kmkl11.com.ua/wp-content/uploads/2018/10/12946.jpg",
       "latitude": 50.45209707209044,
       "longitude": 30.67597164417898,
-      "phone": 380445688088
+      "phone": "+380445688088"
     },
     {
       "country": "Ukraine",
@@ -537,7 +318,7 @@
       "img": "https://res.cloudinary.com/dppglrm2s/image/upload/v1615546560/29_idxyvw.jpg",
       "latitude": 50.42826300910577,
       "longitude": 30.52800349727929,
-      "phone": 380445281598
+      "phone": "+380445281598"
     },
     {
       "country": "Ukraine",
@@ -548,7 +329,227 @@
       "img": "https://f.guide.kyivcity.gov.ua/location/9972/iblMd.jpg",
       "latitude": 50.435540903996454,
       "longitude": 30.301280904979148,
-      "phone": 380445255319
+      "phone": "+380445255319"
+    },
+    {
+      "country": "Germany",
+      "city": "Berlin",
+      "id": 31,
+      "center": "Martin Luther Hospital",
+      "address": "Caspar-Theyß-Straße 27-31, 14193 Berlin, Germany",
+      "img": "https://res.cloudinary.com/dppglrm2s/image/upload/v1615544417/31_xa8vsn.jpg",
+      "latitude": 52.49470330132854,
+      "longitude": 13.29102686158641,
+      "phone": "+493089550"
+    },
+    {
+      "country": "Germany",
+      "city": "Berlin",
+      "id": 32,
+      "center": "Franziskus-Krankenhaus",
+      "address": "Budapester Str. 15-19, 10787 Berlin, Germany",
+      "img": "https://res.cloudinary.com/dppglrm2s/image/upload/v1615544417/32_pldrrl.jpg",
+      "latitude": 52.51014929265509,
+      "longitude": 13.34498628033378,
+      "phone": "+493026380"
+    },
+    {
+      "country": "Germany",
+      "city": "Berlin",
+      "id": 33,
+      "center": "Vivantes Hospital Am Urban",
+      "address": "Dieffenbachstraße 1, 10967 Berlin, Germany",
+      "img": "https://res.cloudinary.com/dppglrm2s/image/upload/v1615544417/33_aiq0do.jpg",
+      "latitude": 52.498023757242144,
+      "longitude": 13.410520927912009,
+      "phone": "+4930130210"
+    },
+    {
+      "country": "Germany",
+      "city": "Berlin",
+      "id": 34,
+      "center": "DRK Kliniken Berlin",
+      "address": "Spandauer Damm 130, 14050 Berlin, Germany",
+      "img": "https://res.cloudinary.com/dppglrm2s/image/upload/v1615544417/34_h29elx.jpg",
+      "latitude": 52.52385239211206,
+      "longitude": 13.278585536331123,
+      "phone": "+493030354000"
+    },
+    {
+      "country": "Germany",
+      "city": "Berlin",
+      "id": 35,
+      "center": "Malteser-Krankenhaus Berlin-Charlottenburg",
+      "address": "Pillkaller Allee 1, 14055 Berlin, Germany",
+      "img": "https://res.cloudinary.com/dppglrm2s/image/upload/v1615544417/35_m0jlty.jpg",
+      "latitude": 52.51155493533742,
+      "longitude": 13.250293047342767,
+      "phone": "+4930300010"
+    },
+    {
+      "country": "Germany",
+      "city": "Berlin",
+      "id": 36,
+      "center": "Bundeswehrkrankenhaus Berlin",
+      "address": "Scharnhorststraße 13, 10115 Berlin, Germany",
+      "img": "https://res.cloudinary.com/dppglrm2s/image/upload/v1615544417/36_kp7xd3.jpg",
+      "latitude": 52.53878039144292,
+      "longitude": 13.369525684691487,
+      "phone": "+493028412289"
+    },
+    {
+      "country": "Germany",
+      "city": "Berlin",
+      "id": 37,
+      "center": "DRK Kliniken Berlin | Mitte",
+      "address": "Drontheimer Str. 39 – 40, 13359 Berlin, Germany",
+      "img": "https://res.cloudinary.com/dppglrm2s/image/upload/v1615544417/37_ulmmiv.jpg",
+      "latitude": 52.56107512448801,
+      "longitude": 13.377609253316162,
+      "phone": "+493030356000"
+    },
+    {
+      "country": "Germany",
+      "city": "Berlin",
+      "id": 38,
+      "center": "Caritas-Klinik Maria Heimsuchung Berlin-Pankow",
+      "address": "Breite Str. 46/47, 13187 Berlin, Germany",
+      "img": "https://res.cloudinary.com/dppglrm2s/image/upload/v1615544417/38_onbpuf.jpg",
+      "latitude": 52.57511323714605,
+      "longitude": 13.413985311543172,
+      "phone": "+4930475170"
+    },
+    {
+      "country": "Germany",
+      "city": "Berlin",
+      "id": 39,
+      "center": "Park-Klinik Weißensee",
+      "address": "Schönstraße 80, 13086 Berlin, Germany",
+      "img": "https://res.cloudinary.com/dppglrm2s/image/upload/v1615544417/39_apsofr.jpg",
+      "latitude": 52.558617993167495,
+      "longitude": 13.45122746796166,
+      "phone": "+493096280"
+    },
+    {
+      "country": "Germany",
+      "city": "Berlin",
+      "id": 40,
+      "center": "Sana Kliniken Berlin-Brandenburg",
+      "address": "Fanningerstraße 32, 10365 Berlin, Germany",
+      "img": "https://res.cloudinary.com/dppglrm2s/image/upload/v1615544417/40_qoofkf.jpg",
+      "latitude": 52.517177057004545,
+      "longitude": 13.495687094633643,
+      "phone": "+493055183510"
+    },
+    {
+      "country": "France",
+      "city": "Paris",
+      "id": 41,
+      "center": "Medical Center Europe",
+      "address": "44-46 Rue d'Amsterdam, 75009 Paris",
+      "img": "https://res.cloudinary.com/dppglrm2s/image/upload/v1615309931/41_p88y3k.jpg",
+      "latitude": 48.87840416403721,
+      "longitude": 2.327581131836391,
+      "phone": "+33142819333"
+    },
+    {
+      "country": "France",
+      "city": "Paris",
+      "id": 42,
+      "center": "Medical Center Cosem Saint-Lazare",
+      "address": "13 Rue de la Pépinière, 75008 Paris",
+      "img": "https://res.cloudinary.com/dppglrm2s/image/upload/v1615309931/42_rep8cd.jpg",
+      "latitude": 48.87499343639248,
+      "longitude": 2.322794573960568,
+      "phone": "+33158229000"
+    },
+    {
+      "country": "France",
+      "city": "Paris",
+      "id": 43,
+      "center": "American Hospital of Paris",
+      "address": "63 Boulevard Victor Hugo, 92200 Neuilly-sur-Seine",
+      "img": "https://res.cloudinary.com/dppglrm2s/image/upload/v1615309932/43_xyikni.jpg",
+      "latitude": 48.89263303869075,
+      "longitude": 2.2726236292771156,
+      "phone": "+33146412525"
+    },
+    {
+      "country": "France",
+      "city": "Paris",
+      "id": 44,
+      "center": "Hôpital Saint-Louis",
+      "address": "1 Avenue Claude Vellefaux, 75010 Paris",
+      "img": "https://res.cloudinary.com/dppglrm2s/image/upload/v1615309931/44_q8bigd.jpg",
+      "latitude": 48.87360311960176,
+      "longitude": 2.369889276044022,
+      "phone": "+33142494949"
+    },
+    {
+      "country": "France",
+      "city": "Paris",
+      "id": 45,
+      "center": "Hôpital Lariboisière",
+      "address": "2 Rue Ambroise Paré, 75010 Paris",
+      "img": "https://res.cloudinary.com/dppglrm2s/image/upload/v1615309932/45_lhyhhg.jpg",
+      "latitude": 48.88320029609331,
+      "longitude": 2.3533687008631947,
+      "phone": "+33149956565"
+    },
+    {
+      "country": "France",
+      "city": "Paris",
+      "id": 46,
+      "center": "Hôpital Européen Georges-Pompidou",
+      "address": "20 Rue Leblanc, 75015 Paris",
+      "img": "https://res.cloudinary.com/dppglrm2s/image/upload/v1615309931/46_m7pmpv.jpg",
+      "latitude": 48.83849193313452,
+      "longitude": 2.27305149452642,
+      "phone": "+33156092000"
+    },
+    {
+      "country": "France",
+      "city": "Paris",
+      "id": 47,
+      "center": "Hôpital Cochin",
+      "address": "27 Rue du Faubourg Saint-Jacques, 75014 Paris",
+      "img": "https://res.cloudinary.com/dppglrm2s/image/upload/v1615309932/47_psq651.jpg",
+      "latitude": 48.8370512428814,
+      "longitude": 2.340276641467016,
+      "phone": "+33158414141"
+    },
+    {
+      "country": "France",
+      "city": "Paris",
+      "id": 48,
+      "center": "Hôpital Tenon",
+      "address": "4 Rue de la Chine, 75020 Paris",
+      "img": "https://res.cloudinary.com/dppglrm2s/image/upload/v1615309932/48_r8vhge.jpg",
+      "latitude": 48.866220398632215,
+      "longitude": 2.401960928242455,
+      "phone": "+33156017000"
+    },
+    {
+      "country": "France",
+      "city": "Paris",
+      "id": 49,
+      "center": "Hôpital Rothschild",
+      "address": "5 Rue Santerre, 75012 Paris",
+      "img": "https://res.cloudinary.com/dppglrm2s/image/upload/v1615310396/49_klmexh.jpg",
+      "latitude": 48.84315050885898,
+      "longitude": 2.39842822168438,
+      "phone": "+33140193000"
+    },
+    {
+      "country": "France",
+      "city": "Paris",
+      "id": 50,
+      "center": "Hôpital Fernand Widal",
+      "address": "200 Rue du Faubourg Saint-Denis, 75010 Paris",
+      "img": "https://res.cloudinary.com/dppglrm2s/image/upload/v1615309932/49_idmo0s.jpg",
+      "latitude": 48.88173108248309,
+      "longitude": 2.358484065296031,
+      "phone": "+33140054545"
     },
     {
       "country": "England",
@@ -559,7 +560,7 @@
       "img": "https://lh5.googleusercontent.com/p/AF1QipMHjf_pVTV20iTH4yBwnSmjF26QmUPbLp2NbyG1=w408-h306-k-no",
       "latitude": 51.40070499906369, 
       "longitude": -0.25045393458544196,
-      "phone": 442083299920
+      "phone": "+442083299920"
     },
     {
       "country": "England",
@@ -570,7 +571,7 @@
       "img": "https://lh5.googleusercontent.com/p/AF1QipPAzyOyPX09k_XxbjL86Gnl0ZFmnuGkFziEoYGT=w408-h544-k-no",
       "latitude": 51.47878800124229, 
       "longitude": -0.02551005597289799,
-      "phone": 442086921354
+      "phone": "+442086921354"
     },
     {
       "country": "England",
@@ -581,7 +582,7 @@
       "img": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=bdYqQguod63qshdekuOUCQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=186.0904&pitch=0&thumbfov=100",
       "latitude": 51.46795653780344, 
       "longitude": -0.12318342743156115,
-      "phone": 442072749252
+      "phone": "+442072749252"
     },
     {
       "country": "England",
@@ -592,7 +593,7 @@
       "img": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=avgLgWtLAXaTYMozWrTpDg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=342.04932&pitch=0&thumbfov=100",
       "latitude": 51.4884075679322, 
       "longitude": -0.19502806103735681,
-      "phone": 442073856001
+      "phone": "+442073856001"
     },
     {
       "country": "England",
@@ -603,7 +604,7 @@
       "img": "https://lh5.googleusercontent.com/p/AF1QipPKgjHYy5zf_P-K1pYKmEw5-fIMuHH4LLltxl8-=w408-h544-k-no",
       "latitude": 51.495675433560564,
       "longitude": -0.20464109864536664,
-      "phone": 442073857777
+      "phone": "+442073857777"
     },
     {
       "country": "England",
@@ -614,7 +615,7 @@
       "img": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=rhP9U7pY-vkjCiVHyqH0cA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=61.523354&pitch=0&thumbfov=100",
       "latitude": 51.53206295314467, 
       "longitude": -0.12205066322099475,
-      "phone": 442030770044
+      "phone": "+442030770044"
     },
     {
       "country": "England",
@@ -625,7 +626,7 @@
       "img": "https://lh5.googleusercontent.com/p/AF1QipOfYCYIJd8JQCecO1fvSzJ0bh02k4KZs52UPGBL=w408-h274-k-no",
       "latitude": 51.55489071868004,
       "longitude": -0.10824328217371712,
-      "phone": 442073590445
+      "phone": "+442073590445"
     },
     {
       "country": "England",
@@ -636,7 +637,7 @@
       "img": "https://lh5.googleusercontent.com/p/AF1QipM74Sw4virDpNtKvcNhIYaEcZT6_sjCmE3tKN0J=w408-h299-k-no",
       "latitude": 51.545757501534844,
       "longitude": -0.2675454131262202,
-      "phone": 442089655733
+      "phone": "+442089655733"
     },
     {
       "country": "England",
@@ -647,7 +648,7 @@
       "img": "https://lh5.googleusercontent.com/p/AF1QipM2UQnTgrj9pX9np9K1nJnuWTbaOmwv89tZE5Ut=w408-h306-k-no",
       "latitude": 51.564115552569405, 
       "longitude": -0.16729516378554615,
-      "phone": 442077940500
+      "phone": "+442077940500"
     },
     {
       "country": "England",
@@ -659,6 +660,116 @@
       "latitude": 51.526110452819964,
       "longitude": -0.0581185223802916,
       "phone": "+442073777000"
+    },
+    {
+      "country": "Poland",
+      "city": "Warsaw",
+      "id": 61,
+      "center": "Medical Center of Ursus",
+      "address": "Stanisława Wojciechowskiego 37, 02-495 Warszawa, Poland",
+      "img": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=zciQsLRPJP3keptMUhlxjw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=165.90341&pitch=0&thumbfov=100",
+      "latitude": 52.202825327808995,  
+      "longitude": 20.86732580209418,
+      "phone": "+48660515152"
+    },
+    {
+      "country": "Poland",
+      "city": "Warsaw",
+      "id": 62,
+      "center": "Medicover Hospital | Warsaw",
+      "address": "Aleja Rzeczypospolitej 5, 02-972 Warszawa, Poland",
+      "img": "https://lh5.googleusercontent.com/p/AF1QipNsoYbFl34MfRHTpH4PgdqcYRIH9xY27TB8rgEm=w414-h240-k-no",
+      "latitude": 52.163671541781895,  
+      "longitude": 21.075379396553203,
+      "phone": "+48500900900"
+    },
+    {
+      "country": "Poland",
+      "city": "Warsaw",
+      "id": 63,
+      "center": "Carolina Medical Center",
+      "address": "Pory 78, 02-757 Warszawa, Poland",
+      "img": "https://lh5.googleusercontent.com/p/AF1QipOCU5fg6G0vjgdi03PEiHUSbjTB2kFoPodzfp4J=w426-h240-k-no",
+      "latitude": 52.199458614347726,  
+      "longitude": 21.049286865902893,
+      "phone": "+48223558200"
+    },
+    {
+      "country": "Poland",
+      "city": "Warsaw",
+      "id": 64,
+      "center": "Centralny Szpital Kliniczny MSWiA w Warszawie",
+      "address": "Wołoska 137, 02-507 Warszawa, Poland",
+      "img": "https://lh5.googleusercontent.com/p/AF1QipMicHTEHXkP0w8U3pA5hEEwjktQwYddn6TEKXnD=w426-h240-k-no",
+      "latitude": 52.20871646012876,  
+      "longitude": 20.993668577170038,
+      "phone": "+48225082000"
+    },
+    {
+      "country": "Poland",
+      "city": "Warsaw",
+      "id": 65,
+      "center": "Independent Public Central Clinical Hospital",
+      "address": "Stefana Banacha 1a, 02-097 Warszawa, Poland",
+      "img": "https://lh5.googleusercontent.com/p/AF1QipPaUGi0kLlLaIXfOs-zwsxqCSX04CjuKM9YZPcd=w426-h240-k-no",
+      "latitude": 52.221337686672726, 
+      "longitude": 20.981995602931743,
+      "phone": "+48225991000"
+    },
+    {
+      "country": "Poland",
+      "city": "Warsaw",
+      "id": 66,
+      "center": "Szpital św. Elżbiety - Mokotowskie Centrum Medyczne",
+      "address": "Seweryna Goszczyńskiego 1, 02-616 Warszawa, Poland",
+      "img": "https://lh5.googleusercontent.com/p/AF1QipOqujgI1FW-qN_L1KpavHCSd7VdW0S9WSuBMFGy=w408-h253-k-no",
+      "latitude": 52.206612572911986, 
+      "longitude": 21.0225076910982,
+      "phone": "+48225420600"
+    },
+    {
+      "country": "Poland",
+      "city": "Warsaw",
+      "id": 67,
+      "center": "„Bielański” Hospital",
+      "address": "Cegłowska 80, 01-809 Warszawa, Poland",
+      "img": "https://lh5.googleusercontent.com/p/AF1QipOAMf88vVobGIA3p8ZvIUpt8zOvpTZyw-57YZoW=w426-h240-k-no",
+      "latitude": 52.30277039457349, 
+      "longitude": 20.951547584307754,
+      "phone": "+48225690500"
+    },
+    {
+      "country": "Poland",
+      "city": "Warsaw",
+      "id": 68,
+      "center": "Mazovian Bródnowski Hospital",
+      "address": "Ludwika Kondratowicza 8, 03-242 Warszawa, Poland",
+      "img": "https://lh5.googleusercontent.com/p/AF1QipMAe5UbZm-TswHrxowZD3UamksmKqFpoStKY5Py=w426-h240-k-no",
+      "latitude": 52.3051455083008, 
+      "longitude": 21.04476967455358,
+      "phone": "+48223265226"
+    },
+    {
+      "country": "Poland",
+      "city": "Warsaw",
+      "id": 69,
+      "center": "Centrum Zdrowia Dziecka",
+      "address": "aleja Dzieci Polskich 20, 04-730 Warszawa, Poland",
+      "img": "https://lh5.googleusercontent.com/p/AF1QipOMQ0Gj9yKJt79tohv4sp_0G2aBhZvv1OmmYCLJ=w408-h348-k-no",
+      "latitude": 52.21069532726224,
+      "longitude":  21.19124404292486,
+      "phone": "+48228151000"
+    },
+    {
+      "country": "Poland",
+      "city": "Warsaw",
+      "id": 70,
+      "center": "Princess Anna Mazowiecka Clinical Hospital",
+      "address": "Karowa 2, 00-315 Warszawa, Poland",
+      "img": "https://lh5.googleusercontent.com/p/AF1QipN8OXZFa9YqIoMpeB8B-QFoaqzkOdOL0KY9OpDL=w408-h306-k-no",
+      "latitude": 52.250228091093625, 
+      "longitude": 21.022672562012975,
+      "phone": "+48225966100"
     }
   ]
 }
