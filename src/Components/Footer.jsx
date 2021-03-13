@@ -35,7 +35,7 @@ export default function Footer() {
         </IconContext.Provider>
       </div>
       <div className='websites'>
-        <p className='sponsers'>Sponsered by:</p>
+        <p className='sponsers'>Sponsored by:</p>
         <Link
           to={{ pathname: "https://www.wildcodeschool.com/pt-PT" }}
           target='_blank'
@@ -50,7 +50,7 @@ export default function Footer() {
         </Link>
       </div>
       <div className='credits'>
-        <p>&copy; 2021 all rights reserved</p>
+        <p>&copy; 2021 All Rights Reserved</p>
       </div>
     </div>
   );
