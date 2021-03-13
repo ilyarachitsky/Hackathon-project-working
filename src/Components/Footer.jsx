@@ -9,6 +9,8 @@ import {
 import { IconContext } from "react-icons";
 import "./Style.css";
 import { Link } from "react-router-dom/cjs/react-router-dom.min";
+import Twilio from "./Logo/twilio.png";
+import Wcs from "./Logo/wcs.png";
 
 export default function Footer() {
   return (
@@ -33,18 +35,18 @@ export default function Footer() {
         </IconContext.Provider>
       </div>
       <div className='websites'>
-        <p className='sponsers'>Hackathon sponsered by:</p>
+        <p className='sponsers'>Sponsered by:</p>
         <Link
           to={{ pathname: "https://www.wildcodeschool.com/pt-PT" }}
           target='_blank'
           className='websites'>
-          WCS
+          <img src={Wcs} alt='wcs' />
         </Link>
         <Link
           to={{ pathname: "https://www.twilio.com" }}
           target='_blank'
           className='websites'>
-          Twilio
+          <img src={Twilio} alt='Twilio' />
         </Link>
       </div>
       <div className='credits'>
