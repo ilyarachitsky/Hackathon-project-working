@@ -19,7 +19,6 @@ function App() {
           <Route path='/about' component={About} />
           
         </Switch>
-        <hr />
         <Footer />
       </Router>
     </div>
