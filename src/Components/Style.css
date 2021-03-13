@@ -1,4 +1,31 @@
 @import url('https://fonts.googleapis.com/css2?family=Rubik&display=swap');
+@media screen and (max-width: 900px) {
+    .footer{
+        flex-wrap: wrap;
+        flex-direction: column;
+    }
+
+    .NavBar{
+        flex-wrap: wrap;
+        flex-direction: column;
+    }
+}
+@media screen and (max-width: 375px) {
+    .footer{
+        flex-wrap: wrap;
+        flex-direction: column;
+        position:fixed;
+        bottom:0;
+        z-index:999;
+        width:100%;
+        height: auto;
+        }
+
+    .NavBar{
+        flex-wrap: wrap;
+        flex-direction: column;
+    }
+}
 
 body{
     font-family:sans-serif;
@@ -52,18 +79,6 @@ h1{
 
 .credits p{
     color: white;
-}
-
-@media screen and (max-width: 900px) {
-    .footer{
-        flex-wrap: wrap;
-        flex-direction: column;
-    }
-
-    .NavBar{
-        flex-wrap: wrap;
-        flex-direction: column;
-    }
 }
 
 .leaflet-container{
