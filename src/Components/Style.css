@@ -92,9 +92,15 @@ h1{
   }
   
   .images{
+    margin-left: 50%;
+    transform: translate(-50%);
     width: 200px;
     height: 200px;
     object-fit: cover;
+  }
+
+  .card-text{
+      text-align: center;
   }
   
   /* Contact form*/

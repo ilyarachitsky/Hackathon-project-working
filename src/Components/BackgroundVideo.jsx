@@ -7,8 +7,8 @@ const BackgroundVideo = () => {
     "https://res.cloudinary.com/dppglrm2s/video/upload/v1615625043/hackvideofinal_r8ti7n.mp4";
   return (
     <div className={classes.Container}>
-      <video autoPlay="autoplay" loop="loop" muted className={classes.Video}>
-        <source src={videoSource} type="video/mp4" />
+      <video autoPlay='autoplay' loop='loop' muted className={classes.Video}>
+        <source src={videoSource} type='video/mp4' />
         Your browser does not support the video tag.
       </video>
 
@@ -28,9 +28,9 @@ const BackgroundVideo = () => {
             exposed to those disease-causing germs, the body is immediately
             ready to destroy them, preventing illness.
           </p>
-          <Link to="/map">
-            <button type="button" className="btn btn-outline-dark">
-              EXPLORE THE MAP
+          <Link to='/map'>
+            <button type='button' className='btn btn-outline-dark'>
+              FIND YOUR CENTER
             </button>
           </Link>
         </div>

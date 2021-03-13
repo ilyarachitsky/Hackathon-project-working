@@ -10,8 +10,8 @@ export default function Mapping() {
   return (
     <Map center={[46.68, 23.03]} zoom={4}>
       <Search
-        position="topleft"
-        inputPlaceholder="Search..."
+        position='topleft'
+        inputPlaceholder='Search...'
         showMarker={false}
         zoom={12}
         closeResultsOnClick={true}
@@ -19,7 +19,7 @@ export default function Mapping() {
       />
 
       <TileLayer
-        url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
+        url='https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png'
         attribution='&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
       />
 
@@ -38,17 +38,16 @@ export default function Mapping() {
           position={[activeCenter.latitude, activeCenter.longitude]}
           onClose={() => {
             setActiveCenter(null);
-          }}
-        >
+          }}>
           <div>
-            <h2>{activeCenter.center}</h2>
-            <p>
+            <h2 className='card-text'>{activeCenter.center}</h2>
+            <p className='card-text'>
               <strong>Address:</strong> {activeCenter.address}
             </p>
-            <p>
+            <p className='card-text'>
               <strong>Phone:</strong> {activeCenter.phone}
             </p>
-            <img className="images" src={activeCenter.img} alt="aaa" />
+            <img className='images' src={activeCenter.img} alt='aaa' />
           </div>
         </Popup>
       )}
