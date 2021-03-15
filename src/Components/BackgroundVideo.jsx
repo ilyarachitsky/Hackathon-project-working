@@ -17,7 +17,7 @@ const BackgroundVideo = () => {
           <h1>TAKE CARE OF YOURSELF</h1>
           <h2>Vaccination around the Europe</h2>
           <p>
-            The world is in the midst of a COVID-19 pandemic. As WHO and
+            The world is in the midst of a COVID-19 pandemic. As Vaccinator and
             partners work together on the response tracking the pandemic,
             advising on critical interventions, distributing vital medical
             supplies to those in need they are racing to develop and deploy safe
