@@ -55,7 +55,7 @@ export default function Mapping() {
             className="favorite"
             onClick={() => setIsFavorite(!isFavorite)}
           >
-            {isFavorite ? "Good" : "I did vaccination here"}
+            {isFavorite ? "Good" : "I vaccinated here"}
           </button>
           {isFavorite && (
             <img
